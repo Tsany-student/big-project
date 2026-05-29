@@ -1,0 +1,3 @@
+[submodule "big-project"]
+	path = big-project
+	url = https://github.com/Tsany-student/big-project.git
